@@ -114,7 +114,8 @@ class WeatherScreen extends StatelessWidget {
                   // SizedBox(width: 50,),
                   AddtionalCard(
                     icon: Icons.air_outlined,
-                    label:'wind Speed',
+                    label:'Wind Speed',
+                    // ignore: prefer_adjacent_string_concatenation
                     value: '7.5'
                   ),
                   // SizedBox(width: 50,),
