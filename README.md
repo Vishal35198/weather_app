@@ -40,7 +40,7 @@ Loading feature of Weather APP : Build With Future Builder 👇
 Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left"> <a href="https://www.instagram.com/vishal_.chaurasiya_/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="android" width="40" height="40"/> </a>
  </p>
 <h6>
