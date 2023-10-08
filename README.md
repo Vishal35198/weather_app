@@ -1,10 +1,14 @@
 
 # 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝚃𝚒𝚝𝚕𝚎 𖢨
-The project is about a weather App. It uses beautiful UI to display weather .
-It Fetches Data From API.
 
+👉 The project is about a weather App. It uses beautiful UI to display weather .
+
+👉It Fethches Data From API (Open Weather API )
+
+👉 No Unncesseary UI . Simple and quite Interactive 
 
 # 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀 𖢨
+
  Flutter , Dart , Andoid Development 
  
 
